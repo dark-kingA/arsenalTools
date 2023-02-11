@@ -2,9 +2,9 @@
 跨平台空间资产测绘 如果觉得有用 一键三连啊 大佬们 </br>
 采用node.js + nwjs + vue.js  + elementui + jquery ....</br>
 支持 谷歌浏览器插件版本、mac版本、win版本
-<img src="./info/info1.png">
-<img src="./info/info2.png">
-<img src="./info/info3.png">
+<img src="./info/info-mac.png">
+<img src="./info/info-win.png">
+<img src="./info/info-google.png">
 
 ## 谷歌浏览器版本下载
 仓库地址：https://github.com/dark-kingA/superSearchPlus
