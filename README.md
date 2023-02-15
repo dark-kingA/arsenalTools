@@ -8,11 +8,10 @@
 
 ## 谷歌浏览器版本下载
 仓库地址：https://github.com/dark-kingA/superSearchPlus
-
 ## mac版本下载
-地址： https://cowtransfer.com/s/83fe684300be4e 
+地址： https://cowtransfer.com/s/9ba00425ad0546
 ## win版本下载
-地址： https://cowtransfer.com/s/ad539b1d7c194c
+地址： https://cowtransfer.com/s/43b5167ff74545
 
 
 ## mac安装
