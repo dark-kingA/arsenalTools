@@ -1,4 +1,5 @@
 # superSearchPlus
+## 此版本不再更新 核心模块升级 已经不适配！！！！
 跨平台空间资产测绘 如果觉得有用 一键三连啊 大佬们 </br>
 采用node.js + nwjs + vue.js  + elementui + jquery ....</br>
 支持 谷歌浏览器插件版本、mac版本、win版本
